@@ -30,7 +30,7 @@ Application Status:
 This application is currently in development.
 
 Application deployement
-The app can be accessed via https://phase-3-pet-finder-project.vercel.app/
+The app can be accessed via https://phase-3-pet-finder-project-fit2ur0kw-pmihango.vercel.app/
 
 
 
