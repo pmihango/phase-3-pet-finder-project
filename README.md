@@ -29,8 +29,8 @@ Vercel
 Application Status:
 This application is currently in development.
 
-Application backend
-The backend for this application is contained in the following repository
+Application deployement
+The app can be accessed via https://phase-3-pet-finder-project.vercel.app/
 
 
 
