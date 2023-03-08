@@ -32,7 +32,7 @@ This application is currently in development.
 Application deployement
 The app can be accessed via https://phase-3-pet-finder-project-fit2ur0kw-pmihango.vercel.app/
 
-
+The back end is deployed via https://pet-finder-wo9l.onrender.com
 
 
 Author and Licence
