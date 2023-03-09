@@ -36,6 +36,8 @@ The back end repo link is https://github.com/pmihango/pet-finder-project-back-en
 
 The backend deployment is https://wamae-pet-finder.onrender.com/
 
+Login with Username:pet Password:pet
+
 
 
 
